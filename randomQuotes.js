@@ -3,7 +3,7 @@ var quoteList = [
   'You are the reason that the middle finger exists.',
   'You may support equal rights, but your face doesn\'t support equal proportions.',
   'I\'d make a joke.. but you are enough of one already.',
-  'So that\'s where my trash can ran off to!',
+  'The only guy that would pick you up is the garbage collector.',
   'I\'d prefer a battle of wits, but you seem to be unarmed.',
   'Go step on a Lego',
   'You are the human equivelant of a participation award.',
