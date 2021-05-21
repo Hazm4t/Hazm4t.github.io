@@ -23,4 +23,4 @@ var names = [
 
 let quote = quoteList[Math.floor(Math.random() * (quoteList.length))]
 let name = names[Math.floor(Math.random() * (names.length))]
-document.getElementById('quote').innerHTML = quote + " - " + name
+document.getElementById('quote').innerHTML = '"' + quote + '"' + " - " + name
