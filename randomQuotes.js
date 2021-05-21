@@ -21,6 +21,6 @@ var names = [
   'Julius Ceaser',
 ]
 
-let quote = quoteList[Math.floor(Math.random() * (quoteList.length - 1))]
-let name = names[Math.floor(Math.random() * (names.length - 1))]
+let quote = quoteList[Math.floor(Math.random() * (quoteList.length))]
+let name = names[Math.floor(Math.random() * (names.length))]
 document.getElementById('quote').innerHTML = quote + " - " + name
