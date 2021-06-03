@@ -9,6 +9,9 @@ var quoteList = [
   'You are the human equivelant of a participation award.',
   'Get bent loser.',
   'You are as sharp as a marble.',
+  'The bar was already on the floor, and you brought a shovel.',
+  'I hate when people make fake quotes',
+  'A potato flew around my room before you came...',
 ]
 
 var names = [
